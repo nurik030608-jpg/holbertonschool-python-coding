@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+Module 0-square: Defines a Square class. 
+This is the module-level docstring that the test requires.
+"""
 class Square:
     """
     Defines a square by its size.
