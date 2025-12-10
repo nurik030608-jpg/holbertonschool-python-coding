@@ -3,7 +3,7 @@
 Module 0-square: Defines a Square class.
 This is the module-level docstring that the test requires.
 """
-class Square:
+class Square:  
     """
     Defines a square by its size.
     The size is stored as a private instance attribute: __size.
