@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+This module contains the definition of the Square class. 
+It meets all requirements for task 1, including size validation. 
+"""
 class Square:
     def __init__(self, size=0):
         if not isinstance(size, int):
